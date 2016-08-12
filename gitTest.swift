@@ -1,0 +1,1 @@
+var numA: Int = 10
